@@ -22,3 +22,4 @@ is the framework for enhanced chaos engineering. Current tools like `chaos monke
 4. Gastly is equiped with agent to monitor the behaviour of poison points to give you summary of system resiliency score
 5. Resiliency score is benchmarked and compared against the overall / multi-system score 
 6. While poisoning the environment, `mey` agents will monitor and collect the metric changes to understand the weakness in resliency 
+7. Feed the numbers and facts to deep learning framework, which can learn the impact. This framework would classify the difference among impacts that would help in priortizing the issue in production.  
